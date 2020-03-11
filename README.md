@@ -16,8 +16,10 @@
 *   'Mario' and 'Spiny' game characters will face each other in 'Rock, Paper, Scissors' battle;
 *   Upon game start, each player must move toward the center of the Main-game-board where there are three objects ready to be picked-up. Rock, Paper, and   Scissors;
 *   Once players pick-up the object of their choice, they must chase one other to define a round winner;
-*   Outcomes: Rock beat Scissors, Paper beat Rock, Scissors beat Paper;
+*   Expected outcomes: Rock beat Scissors, Paper beat Rock, Scissors beat Paper;
 *   There are also several obstacle objects on the Main-game-board that players can utilize to hide behind;
+*   Game ends once a player with an advantage tool catches the player with disadvantage tool;
+*   Players given a choice to end the game (will take to landing page) or reset and continue playing;
 
 ### Wireframes:
 
@@ -31,7 +33,10 @@
 
 ### Timeline:
 
-* Wednesday - finish the game wireframing and proposal list. Begin putting together 
+* Wednesday:
+    - finish the game wireframing and proposal list. 
+    - begin to pseudocode.
+
 * Thursday - 
 * Friday - 
 * Saturday - 
