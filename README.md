@@ -1,6 +1,6 @@
-# RPG- "SuperMario Rock, Paper, Scissors" -Game-Proposal
+# RPG- "SuperMario Rock, Paper, Scissors" -Game-Proposal.
 
-## Rules::
+## *Rules:*
 
 ### Quick Start:
 
