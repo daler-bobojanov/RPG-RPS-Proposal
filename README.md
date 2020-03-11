@@ -1,4 +1,31 @@
-# RPG-RPS-Proposal
-RPG-Rock,Paper,Scissors Game Proposal
+# RPG- "SuperMario Rock, Paper, Scissors" -Game-Proposal
 
-![alt text](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_1.png "Logo Title Text 1")
+## Rules
+
+### Quick Start:
+
+* 
+
+### Detailed Instructions
+
+*   
+
+### Wireframes
+
+![Page-1of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_1.png)
+![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_2.png)
+![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_3.png)
+
+### Package/Libraries (if I have used any)
+
+*   
+
+### Timeline
+
+* Wednesday - finish the game wireframing and proposal list
+* Thursday - 
+* Friday - 
+* Saturday - 
+* Sunday - 
+* Monday - 
+
