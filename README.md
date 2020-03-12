@@ -40,12 +40,14 @@
 * Thursday: 
     - begin to gather all the game required assets and work on JS script;
 
-* Friday 
+* Friday:
     - continue to work on the logic and JS script;
 
-* Saturday 
+* Saturday:
     - CSS: begin to style the game;
-    
-* Sunday - 
-* Monday - 
+
+* Sunday: 
+    - 
+* Monday: 
+    - 
 
