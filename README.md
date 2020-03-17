@@ -23,9 +23,9 @@
 
 ### Wireframes:
 
-![Page-1of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_1.png)
-![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_2.png)
-![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/assets/Page_3.png)
+![Page-1of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/wireframes/Page_1.png)
+![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/wireframes/Page_2.png)
+![Page-2of3 Wireframe](https://github.com/daler-bobojanov/RPG-RPS-Proposal/blob/master/wireframes/Page_3.png)
 
 ### Package/Libraries (if I have used any):
 
