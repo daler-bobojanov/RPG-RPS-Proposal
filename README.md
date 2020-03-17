@@ -29,7 +29,7 @@
 
 ### Package/Libraries (if I have used any):
 
-*   
+*   None;
 
 ### Timeline:
 
@@ -41,13 +41,13 @@
     - begin to gather all the game required assets and work on JS script;
 
 * Friday:
-    - continue to work on the logic and JS script;
+    - continue to work on the game logic and JS script;
 
 * Saturday:
-    - CSS: begin to style the game;
+    - continue to work on the game logic and JS script;
 
 * Sunday: 
-    - 
+    - continue to work on the game logic and JS script;
 * Monday: 
-    - 
+    - CSS: begin to style the game. Submit GitHub link;
 
